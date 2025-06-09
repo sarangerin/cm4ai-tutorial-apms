@@ -8,7 +8,7 @@ With the Python notebooks and scripts in the src directory, you will be able to:
 1. Download and extract the raw AP-MS data from Dataverse,
 2. Run an exploratory data analysis (EDA) for the AP-MS data,
 3. Generate embeddings for the AP-MS data using the [CM4AI cell maps pipeline](https://github.com/idekerlab/cellmaps_pipeline),
-4. Create and visualize protein-protein interaction (PPI) network from AP-MS data, and
+4. Create and visualize a protein-protein interaction (PPI) network from the AP-MS data, and
 5. Explore patterns in the PPI graph.
 
 ## Background Information
