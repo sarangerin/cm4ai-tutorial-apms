@@ -15,7 +15,7 @@ With the Python notebooks and scripts in the src directory, you will be able to:
 For a quick background on CM4AI data and tools, the following short videos provide a quick introduction:
 
 | **Introduction to CM4AI** | **Introduction to the Cell Map Pipeline** |
-|:-------------------------:|:----------------------------------------:|:--------------------------------------------:|
+|:-------------------------:|:----------------------------------------:|
 | [![Introduction to CM4AI](https://img.youtube.com/vi/wiGgof7gY3w/hqdefault.jpg)](https://www.youtube.com/watch?v=wiGgof7gY3w) | [![Cell Map Pipeline](https://img.youtube.com/vi/AK2eQbOys2I/hqdefault.jpg)](https://www.youtube.com/watch?v=AK2eQbOys2I) |
 
 ## Working with the Tutorial
