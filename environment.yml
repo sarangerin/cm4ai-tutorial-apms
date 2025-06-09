@@ -1,4 +1,4 @@
-name: cm4ai-secms-tutorial
+name: cm4ai-apms-tutorial
 channels:
   - defaults
 dependencies:
