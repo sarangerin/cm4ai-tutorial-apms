@@ -30,8 +30,8 @@ conda activate cm4ai-apms-tutorial
 3. Review and run the tutorial scripts
    1. Download the CM4AI data release: [View Script](src/download.py)
    2. Explore the data set: [View Notebook](src/eda.ipynb)
-   3. Generate embeddings with cellmaps_image_embedder: [View Script](src/generate_embeddings.py)
-   4. Generate a protein similarity graph based on the embedding and visualize results: [View Notebook](src/generate_network.ipynb)
+   3. Generate embeddings with cellmaps_ppi_embedding: [View Script](src/generate_embeddings.py)
+   4. Generate a PPI network based on the embedding and visualize results: [View Notebook](src/generate_network.ipynb)
 
 ## Links and References
 * CM4AI Website: https://cm4ai.org
