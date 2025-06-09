@@ -1,16 +1,15 @@
 # Cell Maps for AI (CM4AI) Affinity Purification-Mass Spectrometry (AP-MS) Embedding Tutorial
 
 ## Overview
-This tutorial will work with the IF data that are available in the [CM4AI March 2025 Data Release](https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi:10.18130/V3/DXWOS5). This release contains AP-MS raw data in untreated, acquired on a Orbitrap Fusion™ Lumos™ Tribrid™ Mass Spectrometer (Thermo Scientific)
-Raw data are processed using Maxquant v1.6.12.0 using default parameter with LFQ quantification and the
-“202209_uniprot_human_reviewed.fasta” file as reference.
+This tutorial will work with the AP-MS data that are available in the [CM4AI May 2024 Data Release](https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi:10.18130/V3/DXWOS5). This release contains AP-MS raw data in untreated, acquired on a Orbitrap Fusion™ Lumos™ Tribrid™ Mass Spectrometer (Thermo Scientific).
+Raw data are processed using Maxquant v1.6.12.0 using default parameter with LFQ quantification and the “202209_uniprot_human_reviewed.fasta” file as reference.
 
 With the Python notebooks and scripts in the src directory, you will be able to:
-1. Download and extract the raw AP-MS data from Dataverse
-2. Run an exploratory data analysis (EDA) for the images
-3. Generate embeddings for the AP-MS data using the [CM4AI cell maps pipeline](https://github.com/idekerlab/cellmaps_pipeline)
-4. Create and visualize a protein-protein interaction (PPI) network using AP-MS data
-5. Explore the strengths and patterns of the protein interactions
+1. Download and extract the raw AP-MS data from Dataverse,
+2. Run an exploratory data analysis (EDA) for the AP-MS data,
+3. Generate embeddings for the AP-MS data using the [CM4AI cell maps pipeline](https://github.com/idekerlab/cellmaps_pipeline),
+4. Create and visualize a protein-protein interaction (PPI) network using AP-MS data, and
+5. Explore the patterns of the protein interactions with the PPI network graph.
 
 ## Background Information
 For a quick background on CM4AI data and tools, the following short videos provide a quick introduction:
