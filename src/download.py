@@ -22,7 +22,6 @@ for file in files:
         file_id = file['dataFile']['id']
         break
 
-# Download the file
 if file_id:
     download_url = f"{base_url}/api/access/datafile/{file_id}"
     filename = target_filename
